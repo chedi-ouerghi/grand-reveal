@@ -50,7 +50,7 @@ This project presents a private collection of architectural residences through a
 
 ## Deployment
 
-This project is ready to be deployed to any static hosting platform or server that supports Vite applications.
+This project is ready to be deployed to any static hosting platform or server that supports Vite applications, including GitHub Pages, Netlify, Vercel, or Cloudflare Pages.
 
 ## Credits
 
